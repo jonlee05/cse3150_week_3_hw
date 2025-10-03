@@ -1,5 +1,6 @@
 
 #include <iostream>
+#include <string>
 #include <cstring>   // for strlen, strcpy
 
 // TODO: function prototypes
